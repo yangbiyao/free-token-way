@@ -1,5 +1,6 @@
-大模型逆向API白嫖，薅羊毛，
+大模型逆向API白嫖，薅羊毛，白嫖白嫖
 https://cloud.siliconflow.cn/i/OFPattaz    链接拿走不谢，实名认证领32.
+抱歉好像是16.认证领16.用dsv4p，重度编码能抗一天，别的模型慎用吧。
 # free-token-way
 # deepseek 
 # deepseek-v4-pro 
